@@ -1,7 +1,7 @@
 {
   "name": "vue-bg-src",
   "version": "1.0.0",
-  "description": "A wrapper Vue Directive for shave.js",
+  "description": "A Vue directive to make responsive image backgrounds similar to using srcset on image tags",
   "main": "dist/vue-bg-src.common.js",
   "module": "dist/vue-bg-src.es2015.js",
   "unpkg": "dist/vue-bg-src.min.js",
