@@ -32,7 +32,7 @@ Vue.use( VueBgSrc, { mediaQueries: mediaQueries } );
 
 ### CDN
 
-Include shave and vue-shave. 
+Include the vue-bg-src script. 
 
 ```html
 <script src="https://unpkg.com/vue-bg-src@1.0.0"></script>
